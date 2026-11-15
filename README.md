@@ -4,7 +4,7 @@
 
 ## 安装
 
-使用支持 `input: "arguments"` 和 `copyAndShow` 的 QuickLauncher 版本，并确保 Ruby 运行环境可用。在“设置 → 脚本与插件 → 发现插件”中输入 `peiel/quicklauncher-timestamp-plugin`，审查并确认安装，再在“已安装”中启用。安装后可修改触发词。
+使用支持 `input: "arguments"` 和 `copyAndShow` 的 QuickLauncher 版本，并确保 Ruby 运行环境可用。在“设置 → 插件 → 发现插件”中输入 `peiel/quicklauncher-timestamp-plugin`，审查并确认安装，再在“已安装”中启用。安装后可修改触发词。
 
 也可以从[插件展示站](https://plugin.quicklauncher.flyee.tech)选择插件并在 QuickLauncher 中打开，然后审查安装。
 
